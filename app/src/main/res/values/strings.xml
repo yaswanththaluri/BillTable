@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Table</string>
+
+    <string name="credits"><u>Designed by Yaswanth Thaluri</u></string>
+
+    <string name="billing_icon">Billing</string>
+    <string name="analysis_icon">Analysis</string>
+    <string name="stock_icon">Stock</string>
+    <string name="accounts_icon">Accounts</string>
+    <string name="shop_name">Enter the Shop name:</string>
+    <string name="owner">Enter Owner of Business:</string>
+    <string name="type">Enter Business Type:</string>
+    <string name="save">Save Details</string>
+    <string name="toast_save">Details saved Successfully!</string>
+</resources>
